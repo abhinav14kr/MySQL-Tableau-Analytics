@@ -6,8 +6,13 @@
 5. Here's my blog explaining the project: https://abhinav14rd.wordpress.com/2023/11/07/from-sql-queries-to-tableau-visualizations/
 
 
+*Flowchart*
+
+
 ![Screenshot 2023-11-07 135708](https://github.com/abhinav14kr/MySQL-Data-Analysis-Viz-/assets/139970672/a779a34b-9f5f-4055-9cfa-bf624b499390)
 
+
+*Outcome*
 
 
 ![Dashboard 1](https://github.com/abhinav14kr/MySQL-Data-Analysis-Viz-/assets/139970672/777c238c-5493-4b76-ac7c-f277506844d2)
